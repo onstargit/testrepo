@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<FileZilla3>
+    <Servers>
+        <Server>
+            <Host>192.168.100.11</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>bosz</User>
+            <Pass>boszDIGITAL1</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>BOSZDIGITAL-WEB-PAGE</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>BOSZDIGITAL-WEB-PAGE&#x0A;        
+        </Server>
+        <Server>
+            <Host>ftp.seetheworlddigital.com</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>bluetoothdev</User>
+            <Pass>Blu3t00ThD3V2012$$</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>BluetoothDEV</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>BluetoothDEV&#x0A;        
+        </Server>
+        <Server>
+            <Host>ftp.seetheworlddigital.com</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>bluetooth</User>
+            <Pass>Blu3t00Th2012$$</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>BluetoothPROD</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>BluetoothPROD&#x0A;        
+        </Server>
+        <Server>
+            <Host>205.204.1.161</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>Digitas</User>
+            <Pass>0cD3tr0ItD3v</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>Commercial - OC</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>Commercial - OC&#x0A;        
+        </Server>
+        <Server>
+            <Host>email.boszdigital.com</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>randallsanchez@boszdigital.com</User>
+            <Pass>*Rk579Yz</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>Email</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>Email&#x0A;        
+        </Server>
+        <Server>
+            <Host>hr.boszdigital.com</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>hr</User>
+            <Pass>cualquiera12</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>HR_Resume</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>HR_Resume&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.8.62.21</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>rsanchez</User>
+            <Pass>rs042210</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>IAD</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>IAD&#x0A;        
+        </Server>
+        <Server>
+            <Host>isteam.boszdigital.com</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>isteam</User>
+            <Pass>3qr2lVqe</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>IS Pool</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>IS Pool&#x0A;        
+        </Server>
+        <Server>
+            <Host>mylink.boszdigital.com</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>mylink</User>
+            <Pass>mYlink2020</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>MyLink</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>MyLink&#x0A;        
+        </Server>
+        <Server>
+            <Host>ftp.neozrealestate.com</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>neozreal</User>
+            <Pass>ran2012neoz</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>Neoz</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>Neoz&#x0A;        
+        </Server>
+        <Server>
+            <Host>onstar.boszdigital.com</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>onstar</User>
+            <Pass>oNstar@1</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>ONSTAR</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>ONSTAR&#x0A;        
+        </Server>
+        <Server>
+            <Host>onstarteam.boszdigital.com</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>onstarteam@boszdigital.com</User>
+            <Pass>R4g0IMnn</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>ONSTAR-TEAM</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>ONSTAR-TEAM&#x0A;        
+        </Server>
+        <Server>
+            <Host>ownes.boszdigital.com</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>rsanchez</User>
+            <Pass>rsanchez09</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>OWNERS</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>OWNERS&#x0A;        
+        </Server>
+        <Server>
+            <Host>50.63.71.1</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>rsan0746</User>
+            <Pass>Marilyn#09</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>Rsancheza</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>Rsancheza&#x0A;        
+        </Server>
+        <Server>
+            <Host>www.boszdigital.com</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>newsitebosz</User>
+            <Pass>cualquiera1</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>Site Contest</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>Site Contest&#x0A;        
+        </Server>
+    </Servers>
+</FileZilla3>
